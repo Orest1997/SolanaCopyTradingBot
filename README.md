@@ -1,1 +1,0 @@
-# SolanaCopyTradingBot
